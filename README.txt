@@ -1,0 +1,1 @@
+Dự án Angular mẫu. Mở bằng VS Code. Chạy bằng npm install + ng serve
